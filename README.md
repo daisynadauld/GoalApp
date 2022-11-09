@@ -6,7 +6,7 @@ This simple mobile app is a goal setting app that allows a user to input their g
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/b339859c37e243d5b657d0675e505905)
 
 # Development Environment
 
