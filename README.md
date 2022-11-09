@@ -4,8 +4,6 @@ This project was a follow-along to a tutorial covering all things React for mobi
 
 This simple mobile app is a goal setting app that allows a user to input their goals, and once they are complete they can remove that goal.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Software Demo Video](https://www.loom.com/share/b339859c37e243d5b657d0675e505905)
 
 # Development Environment
